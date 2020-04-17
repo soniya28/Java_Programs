@@ -16,13 +16,13 @@ class Descend
 	m=new int[size];
 	for(int i=1;i!=n;i++)
 	{
-	if(n%i==0)
+	if(n%i==0)		//Condition to find out factors of given number 
 	{
 	m[j]=i;
 	j++;
 	}
 	}
-	for(int i=0;i<j-1;i++)
+	for(int i=0;i<j-1;i++)		//sorting logic(Insertion sort)
 	{
 	for(int k=i+1;k<=j;k++)
 	{
@@ -34,7 +34,7 @@ class Descend
 	}
 	}
 	}
-	for(int i=0;i<j;i++)
+	for(int i=0;i<j;i++)		//display the factors
 	{
 	System.out.print(m[i]+" ");
 	}
