@@ -1,3 +1,6 @@
+/*===================================================================
+problem statement:Display the factorial of given number. 
+====================================================================*/
 import java.util.Scanner;
 
 class Factorial
