@@ -1,4 +1,6 @@
-
+/*=======================================================================
+Problem statement:Fibonacci series (Non_recurssive).
+=======================================================================*/
 import  java.util.Scanner;
 
 class Fibonacci_nonRecurssion
