@@ -1,3 +1,6 @@
+/*==============================================================================
+Problem Statement:Check input number is prime or not.Display appropriate msg.
+==============================================================================*/
 import java.util.Scanner;
 
 class Prime
