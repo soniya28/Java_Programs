@@ -1,3 +1,7 @@
+/*==========================================================================
+problem statement:Check whether the input string is palindrome or not.
+		  Display appropriate msg.
+===========================================================================*/
 import java.util.Scanner;
 
 class Palindrome
