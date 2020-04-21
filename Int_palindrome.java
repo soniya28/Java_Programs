@@ -1,12 +1,10 @@
 /*================================================================================
-Problem Statement:Check input number is pallindrome or not.If it is a pallindrome 
-		  then print an appropriate msg and if it is not then also print 
-		  an appropriate msg.
+Problem Statement:Check input number is palindrome or not.Display appropriate msg.
 ================================================================================*/		  
 
 import java.util.Scanner;
 
-class Int_pallindrome
+class Int_palindrome
 {
 	public static void main(String[] args)
 	{
